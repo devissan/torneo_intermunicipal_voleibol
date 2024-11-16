@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6737ed014a67c4ad79f29f1d"
+  },
+  "cedula": 89554789,
+  "nombre": "jose",
+  "apellido": "torres",
+  "edad": 32
+},
+{
+  "_id": {
+    "$oid": "6737ed014a67c4ad79f29f1e"
+  },
+  "cedula": 85684635,
+  "nombre": "javier",
+  "apellido": "gutierrez",
+  "edad": 36
+},
+{
+  "_id": {
+    "$oid": "6737ed014a67c4ad79f29f1f"
+  },
+  "cedula": 87562156,
+  "nombre": "andrea",
+  "apellido": "infante",
+  "edad": 30
+},
+{
+  "_id": {
+    "$oid": "6737ed014a67c4ad79f29f20"
+  },
+  "cedula": 89547123,
+  "nombre": "jeferson",
+  "apellido": "lopez",
+  "edad": 28
+}]

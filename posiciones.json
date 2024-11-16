@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6737ee754a67c4ad79f29f26"
+  },
+  "posicion": 1,
+  "equipo": "Amanecer Dorado",
+  "total_sets": 10,
+  "colegio": "liceo ambiental"
+},
+{
+  "_id": {
+    "$oid": "6737ee754a67c4ad79f29f27"
+  },
+  "posicion": 2,
+  "equipo": "Las Panteras",
+  "total_sets": 9,
+  "colegio": "inocencio chinca"
+},
+{
+  "_id": {
+    "$oid": "6737ee754a67c4ad79f29f28"
+  },
+  "posicion": 3,
+  "equipo": "Viento Plateado",
+  "total_sets": 8,
+  "colegio": "el bosque"
+},
+{
+  "_id": {
+    "$oid": "6737ee754a67c4ad79f29f29"
+  },
+  "posicion": 4,
+  "equipo": "Furia Escarlata",
+  "total_sets": 8,
+  "colegio": "froilan farias"
+}]

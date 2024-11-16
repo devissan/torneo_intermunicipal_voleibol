@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f08"
+  },
+  "identificacion": 1123430914,
+  "nombre ": "daniela",
+  "apellido": "sanchez",
+  "edad": 15,
+  "dorsal": 1,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f09"
+  },
+  "identificacion": 1185430946,
+  "nombre ": "juliana",
+  "apellido": "marquez",
+  "edad": 16,
+  "dorsal": 2,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0a"
+  },
+  "identificacion": 1247430978,
+  "nombre ": "Ana",
+  "apellido": "Martínez",
+  "edad": 14,
+  "dorsal": 3,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0b"
+  },
+  "identificacion": 1309431010,
+  "nombre ": "Beatriz",
+  "apellido": "García",
+  "edad": 15,
+  "dorsal": 4,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0c"
+  },
+  "identificacion": 1371431042,
+  "nombre ": "Carla",
+  "apellido": "Fernández",
+  "edad": 16,
+  "dorsal": 5,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0d"
+  },
+  "identificacion": 1433431074,
+  "nombre ": "Diana",
+  "apellido": "López",
+  "edad": 14,
+  "dorsal": 1,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0e"
+  },
+  "identificacion": 1495431106,
+  "nombre ": "Elena",
+  "apellido": "Sánchez",
+  "edad": 15,
+  "dorsal": 2,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f0f"
+  },
+  "identificacion": 1557431138,
+  "nombre ": "Fernanda",
+  "apellido": "Pérez",
+  "edad": 16,
+  "dorsal": 3,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f10"
+  },
+  "identificacion": 1619431170,
+  "nombre ": "Gabriela",
+  "apellido": "Ramírez",
+  "edad": 14,
+  "dorsal": 4,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f11"
+  },
+  "identificacion": 1681431202,
+  "nombre ": "Isabel",
+  "apellido": "Torres",
+  "edad": 15,
+  "dorsal": 5,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f12"
+  },
+  "identificacion": 1743431234,
+  "nombre ": "Julia",
+  "apellido": "Morales",
+  "edad": 16,
+  "dorsal": 1,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f13"
+  },
+  "identificacion": 1805431266,
+  "nombre ": "Karen",
+  "apellido": "Rodríguez",
+  "edad": 14,
+  "dorsal": 2,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f14"
+  },
+  "identificacion": 1867431298,
+  "nombre ": "Laura",
+  "apellido": "Castillo",
+  "edad": 15,
+  "dorsal": 3,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f15"
+  },
+  "identificacion": 1929431330,
+  "nombre ": "Mariana",
+  "apellido": "Herrera",
+  "edad": 16,
+  "dorsal": 4,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f16"
+  },
+  "identificacion": 1991431362,
+  "nombre ": "Natalia",
+  "apellido": "Mendoza",
+  "edad": 14,
+  "dorsal": 5,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f17"
+  },
+  "identificacion": 2053431394,
+  "nombre ": "Olivia",
+  "apellido": "Gómez",
+  "edad": 15,
+  "dorsal": 1,
+  "equipo": "Viento Plateado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f18"
+  },
+  "identificacion": 2115431426,
+  "nombre ": "Patricia",
+  "apellido": "Cruz",
+  "edad": 16,
+  "dorsal": 2,
+  "equipo": "Viento Plateado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f19"
+  },
+  "identificacion": {
+    "$numberLong": "2177431458"
+  },
+  "nombre ": "Regina",
+  "apellido": "Aguilar",
+  "edad": 14,
+  "dorsal": 3,
+  "equipo": "Viento Plateado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f1a"
+  },
+  "identificacion": {
+    "$numberLong": "2239431490"
+  },
+  "nombre ": "Sofía",
+  "apellido": "Ortega",
+  "edad": 15,
+  "dorsal": 4,
+  "equipo": "Viento Plateado"
+},
+{
+  "_id": {
+    "$oid": "6737ece64a67c4ad79f29f1b"
+  },
+  "identificacion": {
+    "$numberLong": "2301431522"
+  },
+  "nombre ": "Teresa",
+  "apellido": "Navarro",
+  "edad": 16,
+  "dorsal": 5,
+  "equipo": "Viento Plateado"
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6737ec8d4a67c4ad79f29ef7"
+  },
+  "equipo": "Las Panteras",
+  "entrenador": "miguel sanchez",
+  "colegio": "inocencio chinca"
+},
+{
+  "_id": {
+    "$oid": "6737ec8d4a67c4ad79f29ef8"
+  },
+  "equipo": "Amanecer Dorado",
+  "entrenador": "jorge martinez",
+  "colegio": "liceo ambiental"
+},
+{
+  "_id": {
+    "$oid": "6737ec8d4a67c4ad79f29ef9"
+  },
+  "equipo": "Furia Escarlata",
+  "entrenador": "jhonatan marquez",
+  "colegio": "froilan farias"
+},
+{
+  "_id": {
+    "$oid": "6737ec8d4a67c4ad79f29efa"
+  },
+  "equipo": "Viento Plateado",
+  "entrenador": "sergio garcía",
+  "colegio": "el bosque"
+}]

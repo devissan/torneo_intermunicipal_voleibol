@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6737eccf4a67c4ad79f29f03"
+  },
+  "identificacion": 7899542,
+  "nombre ": "miguel",
+  "apellido": "sanchez",
+  "edad": 40,
+  "equipo": "Las Panteras"
+},
+{
+  "_id": {
+    "$oid": "6737eccf4a67c4ad79f29f04"
+  },
+  "identificacion": 7365489,
+  "nombre ": "jhonatan",
+  "apellido": "marquez",
+  "edad": 35,
+  "equipo": "Furia Escarlata"
+},
+{
+  "_id": {
+    "$oid": "6737eccf4a67c4ad79f29f05"
+  },
+  "identificacion": 7123548,
+  "nombre ": "jorge",
+  "apellido": "Martínez",
+  "edad": 38,
+  "equipo": "Amanecer Dorado"
+},
+{
+  "_id": {
+    "$oid": "6737eccf4a67c4ad79f29f06"
+  },
+  "identificacion": 7981463,
+  "nombre ": "sergio",
+  "apellido": "García",
+  "edad": 39,
+  "equipo": "Viento Plateado"
+}]

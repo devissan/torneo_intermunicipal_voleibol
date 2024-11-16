@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6737ecab4a67c4ad79f29efe"
+  },
+  "equipo_vicitante": "Las Panteras",
+  "equipo local": "Furia Escarlata",
+  "sets local": 4,
+  "sets vicitante": 5,
+  "fase": "semifinal",
+  "fecha": {
+    "$date": "2024-11-05T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6737ecab4a67c4ad79f29eff"
+  },
+  "equipo_vicitante": "Amanecer Dorado",
+  "equipo local": "Viento Plateado",
+  "sets local": 3,
+  "sets vicitante": 5,
+  "fase": "semifinal",
+  "fecha": {
+    "$date": "2024-11-04T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6737ecab4a67c4ad79f29f00"
+  },
+  "equipo_vicitante": "Las Panteras",
+  "equipo local": "Amanecer Dorado",
+  "sets local": 5,
+  "sets vicitante": 4,
+  "fase": "final puesto 1",
+  "fecha": {
+    "$date": "2024-11-09T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6737ecab4a67c4ad79f29f01"
+  },
+  "equipo_vicitante": "Viento Plateado",
+  "equipo local": "Furia Escarlata",
+  "sets local": 4,
+  "sets vicitante": 5,
+  "fase": "final puesto 3",
+  "fecha": {
+    "$date": "2024-11-08T05:00:00.000Z"
+  }
+}]
